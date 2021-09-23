@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' viewBox='0 0 288.00 504.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHwyODguMDB8MC4wMHw1MDQuMDA='>
+    <rect x='0.00' y='0.00' width='288.00' height='504.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwyODguMDB8MC4wMHw1MDQuMDA=)'>
+<rect x='-3.91' y='39.90' width='295.82' height='424.20' style='stroke-width: 0.75;' />
+<rect x='-3.91' y='39.90' width='295.82' height='424.20' style='stroke-width: 1.07; stroke: none;' />
+<text x='1.57' y='54.48' style='font-size: 11.00px; fill: #FFFFFF; font-family: Arial;' textLength='45.66px' lengthAdjust='spacingAndGlyphs'>Cell Type</text>
+<rect x='1.57' y='61.18' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='61.89' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #990F26;' />
+<rect x='1.57' y='78.46' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='79.17' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #B33E52;' />
+<rect x='1.57' y='95.74' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='96.45' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #CC7A88;' />
+<rect x='1.57' y='113.02' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='113.73' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #E6B8BF;' />
+<rect x='1.57' y='130.30' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='131.01' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #99600F;' />
+<rect x='1.57' y='147.58' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='148.29' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #B3823E;' />
+<rect x='1.57' y='164.86' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='165.57' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #CCAA7A;' />
+<rect x='1.57' y='182.14' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='182.85' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #E6D2B8;' />
+<rect x='1.57' y='199.42' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='200.13' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #54990F;' />
+<rect x='1.57' y='216.70' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='217.41' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #78B33E;' />
+<rect x='1.57' y='233.98' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='234.69' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #A3CC7A;' />
+<rect x='1.57' y='251.26' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='251.97' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #CFE6B8;' />
+<rect x='1.57' y='268.54' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='269.25' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #0F8299;' />
+<rect x='1.57' y='285.82' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='286.53' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #3E9FB3;' />
+<rect x='1.57' y='303.10' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='303.81' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #7ABECC;' />
+<rect x='1.57' y='320.38' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='321.09' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #B8DEE6;' />
+<rect x='1.57' y='337.66' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='338.37' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #3D0F99;' />
+<rect x='1.57' y='354.94' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='355.65' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #653EB3;' />
+<rect x='1.57' y='372.22' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='372.93' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #967ACC;' />
+<rect x='1.57' y='389.50' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='390.21' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #C7B8E6;' />
+<rect x='1.57' y='406.78' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='407.49' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #333333;' />
+<rect x='1.57' y='424.06' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='424.77' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #666666;' />
+<rect x='1.57' y='441.34' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='2.28' y='442.05' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #999999;' />
+<text x='24.33' y='72.97' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='182.47px' lengthAdjust='spacingAndGlyphs'>Endothelial cell of peritubular capillary (Type 1)</text>
+<text x='24.33' y='90.25' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='52.34px' lengthAdjust='spacingAndGlyphs'>Myofibroblast</text>
+<text x='24.33' y='107.53' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='123.27px' lengthAdjust='spacingAndGlyphs'>Epithelial cell of proximal tubule</text>
+<text x='24.33' y='124.81' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='96.87px' lengthAdjust='spacingAndGlyphs'>Intercalated cell (Type A)</text>
+<text x='24.33' y='142.09' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='104.19px' lengthAdjust='spacingAndGlyphs'>Glomerular endothelial cell</text>
+<text x='24.33' y='159.37' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='151.19px' lengthAdjust='spacingAndGlyphs'>Kidney connecting tubule epithelial cell</text>
+<text x='24.33' y='176.65' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='77.79px' lengthAdjust='spacingAndGlyphs'>Epithelial progenitor</text>
+<text x='24.33' y='193.93' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='49.38px' lengthAdjust='spacingAndGlyphs'>Principal cell</text>
+<text x='24.33' y='211.21' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='206.96px' lengthAdjust='spacingAndGlyphs'>Mononuclear phagocyte (Type D tissue macrophage)</text>
+<text x='24.33' y='228.49' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='139.93px' lengthAdjust='spacingAndGlyphs'>Descending vasa recta endothelium</text>
+<text x='24.33' y='245.77' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='158.00px' lengthAdjust='spacingAndGlyphs'>Epithelial cell of proximal tubule (Type 2)</text>
+<text x='24.33' y='263.05' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='21.51px' lengthAdjust='spacingAndGlyphs'>B cell</text>
+<text x='24.33' y='280.33' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='134.55px' lengthAdjust='spacingAndGlyphs'>Ascending vasa recta endothelium</text>
+<text x='24.33' y='297.61' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='181.50px' lengthAdjust='spacingAndGlyphs'>Mononuclear phagocyte (Type C dendritic cell)</text>
+<text x='24.33' y='314.89' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='97.35px' lengthAdjust='spacingAndGlyphs'>Intercalated cell (Type B)</text>
+<text x='24.33' y='332.17' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='236.30px' lengthAdjust='spacingAndGlyphs'>Mononuclear phagocyte (Type A classical monocyte derived)</text>
+<text x='24.33' y='349.45' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='27.86px' lengthAdjust='spacingAndGlyphs'>NK cell</text>
+<text x='24.33' y='366.73' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='46.76px' lengthAdjust='spacingAndGlyphs'>T cell (CD4)</text>
+<text x='24.33' y='384.01' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='46.76px' lengthAdjust='spacingAndGlyphs'>T cell (CD8)</text>
+<text x='24.33' y='401.29' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='61.65px' lengthAdjust='spacingAndGlyphs'>Intercalated cell</text>
+<text x='24.33' y='418.57' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='215.74px' lengthAdjust='spacingAndGlyphs'>Kidney loop of Henle thick ascending limb epithelial cell</text>
+<text x='24.33' y='435.85' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='254.89px' lengthAdjust='spacingAndGlyphs'>Mononuclear phagocyte (Type B non-classical monocyte derived)</text>
+<text x='24.33' y='453.13' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='33.08px' lengthAdjust='spacingAndGlyphs'>NKT cell</text>
+</g>
+</svg>

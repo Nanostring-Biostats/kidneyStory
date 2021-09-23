@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' viewBox='0 0 288.00 252.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHwyODguMDB8MC4wMHwyNTIuMDA='>
+    <rect x='0.00' y='0.00' width='288.00' height='252.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwyODguMDB8MC4wMHwyNTIuMDA=)'>
+<rect x='57.17' y='43.50' width='173.67' height='165.00' style='stroke-width: 0.75;' />
+<rect x='57.17' y='43.50' width='173.67' height='165.00' style='stroke-width: 1.07; stroke: none;' />
+<text x='62.65' y='58.08' style='font-size: 11.00px; fill: #FFFFFF; font-family: Arial;' textLength='34.86px' lengthAdjust='spacingAndGlyphs'>Region</text>
+<rect x='62.65' y='64.78' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect id='collDuct' x='63.35' y='65.49' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #F0E442;' />
+<rect x='62.65' y='82.06' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect id='corFiltMem' x='63.35' y='82.77' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #009E73;' />
+<rect x='62.65' y='99.34' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect id='corGlom' x='63.35' y='100.05' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #0072B2;' />
+<rect x='62.65' y='116.62' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect id='dct' x='63.35' y='117.33' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #D55E00;' />
+<rect x='62.65' y='133.90' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect id='medFiltMem' x='63.35' y='134.61' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #CC79A7;' />
+<rect x='62.65' y='151.18' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect id='medGlom' x='63.35' y='151.89' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #56B4E9;' />
+<rect x='62.65' y='168.46' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect id='loop' x='63.35' y='169.17' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #E69F00;' />
+<rect x='62.65' y='185.74' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect id='pct' x='63.35' y='186.45' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #484E4E;' />
+<text x='85.40' y='76.57' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='57.72px' lengthAdjust='spacingAndGlyphs'>Collecting duct</text>
+<text x='85.40' y='93.85' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='107.60px' lengthAdjust='spacingAndGlyphs'>Cortical filtration membrane</text>
+<text x='85.40' y='111.13' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='75.31px' lengthAdjust='spacingAndGlyphs'>Cortical glomerulus</text>
+<text x='85.40' y='128.41' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='93.45px' lengthAdjust='spacingAndGlyphs'>Distal convoluted tubule</text>
+<text x='85.40' y='145.69' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='136.97px' lengthAdjust='spacingAndGlyphs'>Juxtamedullary filtration membrane</text>
+<text x='85.40' y='162.97' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='104.67px' lengthAdjust='spacingAndGlyphs'>Juxtamedullary glomerulus</text>
+<text x='85.40' y='180.25' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='54.81px' lengthAdjust='spacingAndGlyphs'>Loop of Henle</text>
+<text x='85.40' y='197.53' style='font-size: 8.80px; fill: #FFFFFF; font-family: Arial;' textLength='105.67px' lengthAdjust='spacingAndGlyphs'>Proximal convoluted tubule</text>
+</g>
+</svg>
