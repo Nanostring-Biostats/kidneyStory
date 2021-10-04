@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 415 415" style="enable-background:new 0 0 415 415;" xml:space="preserve">
+	 viewBox="0 0 415 450" style="enable-background:new 0 0 415 450;" xml:space="preserve">
 <style type="text/css">
 	.st0{clip-path:url(#SVGID_00000023983571062237812790000006595575821879781783_);}
 	.st1{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
@@ -23,7 +23,7 @@
 	.st17{fill:#7D26CD;}
 	.st18{fill:#FFFFFF;}
 	.st19{font-family:'ArialMT';}
-	.st20{font-size:5.3284px;}
+	.st20{font-size:12px;}
 	.st21{fill:none;}
 	.st22{enable-background:new    ;}
 	.st23{letter-spacing:3;}
@@ -31,8 +31,8 @@
 	.st25{fill:#F0E442;}
 	.st26{fill:#D55E00;}
 	.st27{fill:#484E4E;}
-	.st28{font-size:6.6604px;}
-	.st29{font-size:4.6623px;}
+	.st28{font-size:14px;}
+	.st29{font-size:10px;}
 	.st30{font-family:'MyriadPro-Regular';}
 	.st31{font-size:14px;}
 </style>
@@ -98,7 +98,7 @@
 </g>
 <g>
 	<defs>
-		<rect id="SVGID_00000160898186058251097290000009594931608293857423_" x="2" y="26.9" width="479.6" height="383.6"/>
+		<rect id="SVGID_00000160898186058251097290000009594931608293857423_" x="2" y="26.9" width="479.6" height="450"/>
 	</defs>
 	<clipPath id="SVGID_00000181057582902907151000000001416212670156504255_">
 		<use xlink:href="#SVGID_00000160898186058251097290000009594931608293857423_"  style="overflow:visible;"/>
@@ -536,11 +536,36 @@
 		<rect x="357.6" y="351.2" class="st9" width="13.9" height="18.7"/>
 		<rect x="357.6" y="369.9" class="st6" width="13.9" height="18.7"/>
 		<rect x="357.6" y="388.5" class="st4" width="13.9" height="18.7"/>
+
+		<rect id='r049' x='38.6' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r054' x='52.5' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r053' x='66.4' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r052' x='80.2' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r056' x='94.1' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r051' x='108' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r044' x='121.8' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r047' x='135.7' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r043' x='149.6' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r046' x='163.4' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r045' x='177.3' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r048' x='191.2' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r059' x='205' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r060' x='218.9' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r050' x='232.8' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r057' x='246.7' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r055' x='260.5' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r058' x='274.4' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r041' x='288.3' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r040' x='302.1' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r037' x='316' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r039' x='329.9' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r038' x='343.7' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+		<rect id='r042' x='357.6' y='70.9' width='13.9' height='336.3' style='stroke-width: .5; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;' />
+
 		<text transform="matrix(1 0 0 1 373.46 82.1294)" class="st18 st19 st20">ABC</text>
 		<text transform="matrix(1 0 0 1 373.46 100.8188)" class="st18 st19 st20">SLC13</text>
 		<text transform="matrix(1 0 0 1 373.46 119.5015)" class="st18 st19 st20">SLC22</text>
-		<rect x="373.5" y="133.6" class="st21" width="11.2" height="6.3"/>
-		<text transform="matrix(1 0 0 1 373.46 138.1909)" class="st22"><tspan x="0" y="0" class="st18 st19 st20 st23">O</tspan><tspan x="7.4" y="0" class="st18 st19 st20">C</tspan></text>
+		<text transform="matrix(1 0 0 1 373.46 138.1909)" class="st18 st19 st20">OCT</text>
 		<text transform="matrix(1 0 0 1 373.46 156.8799)" class="st18 st19 st20">SLC17</text>
 		<text transform="matrix(1 0 0 1 373.46 175.5625)" class="st18 st19 st20">SLC5</text>
 		<text transform="matrix(1 0 0 1 373.46 194.252)" class="st18 st19 st20">SLC36</text>
@@ -581,36 +606,27 @@
 		<rect x="357.6" y="64.2" class="st27" width="13.9" height="4.7"/>
 		<rect x="373.5" y="63.2" class="st21" width="21.1" height="7.9"/>
 		<text transform="matrix(1 0 0 1 373.46 68.9351)" class="st18 st19 st28">Region</text>
-		<rect x="398.9" y="156.8" class="st17" width="6.7" height="6.7"/>
-		<rect x="398.9" y="150.1" class="st14" width="6.7" height="6.7"/>
-		<rect x="398.9" y="143.5" class="st15" width="6.7" height="6.7"/>
-		<rect x="398.9" y="136.8" class="st13" width="6.7" height="6.7"/>
-		<rect x="398.9" y="130.2" class="st4" width="6.7" height="6.7"/>
-		<rect x="398.9" y="123.5" class="st10" width="6.7" height="6.7"/>
-		<rect x="398.9" y="116.8" class="st6" width="6.7" height="6.7"/>
-		<rect x="398.9" y="110.2" width="6.7" height="6.7"/>
-		<rect x="398.9" y="103.5" class="st5" width="6.7" height="6.7"/>
-		<rect x="398.9" y="96.9" class="st8" width="6.7" height="6.7"/>
-		<rect x="398.9" y="90.2" class="st7" width="6.7" height="6.7"/>
-		<rect x="398.9" y="83.5" class="st9" width="6.7" height="6.7"/>
-		<rect x="398.9" y="76.9" class="st12" width="6.7" height="6.7"/>
-		<rect x="398.9" y="70.2" class="st16" width="6.7" height="6.7"/>
-		<rect x="398.9" y="63.6" class="st11" width="6.7" height="6.7"/>
-		<rect x="408.2" y="160.8" class="st21" width="4.1" height="5.5"/>
-		<text transform="matrix(1 0 0 1 408.2266 164.7793)" class="st18 st19 st29">-3</text>
-		<rect x="408.2" y="142.6" class="st21" width="4.1" height="5.5"/>
-		<text transform="matrix(1 0 0 1 408.2266 146.5698)" class="st18 st19 st29">-2</text>
-		<rect x="408.2" y="124.4" class="st21" width="4.1" height="5.5"/>
-		<text transform="matrix(1 0 0 1 408.2266 128.3535)" class="st18 st19 st29">-1</text>
-		<rect x="408.2" y="106.1" class="st21" width="2.6" height="5.5"/>
-		<text transform="matrix(1 0 0 1 408.2266 110.1436)" class="st18 st19 st29">0</text>
-		<rect x="408.2" y="87.9" class="st21" width="2.6" height="5.5"/>
-		<text transform="matrix(1 0 0 1 408.2266 91.9272)" class="st18 st19 st29">1</text>
-		<rect x="408.2" y="69.7" class="st21" width="2.6" height="5.5"/>
-		<text transform="matrix(1 0 0 1 408.2266 73.7109)" class="st18 st19 st29">2</text>
-		<rect id='dct' x='38.6' y='27' width='166.5' height='380' style='stroke-width: 1; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;'/>
-		<rect id='cd' x='205' y='27' width='83.3' height='380' style='stroke-width: 1; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;'/>
-		<rect id='pct' x='288.3' y='27' width='83.2' height='380' style='stroke-width: 1; stroke: red; stroke-linecap: square; stroke-linejoin: miter; fill: #990F2600;'/>
+		<rect x="215.4" y="420" class="st11" width="6.7" height="6.7"/>
+		<rect x="208.7" y="420" class="st16" width="6.7" height="6.7"/>
+		<rect x="202" y="420" class="st12" width="6.7" height="6.7"/>
+		<rect x="195.3" y="420" class="st9" width="6.7" height="6.7"/>
+		<rect x="188.6" y="420" class="st7" width="6.7" height="6.7"/>
+		<rect x="181.9" y="420" class="st8" width="6.7" height="6.7"/>
+		<rect x="175.2" y="420" class="st5" width="6.7" height="6.7"/>
+		<rect x="168.5" y="420" width="6.7" height="6.7"/>
+		<rect x="161.8" y="420" class="st6" width="6.7" height="6.7"/>
+		<rect x="155.1" y="420" class="st10" width="6.7" height="6.7"/>
+		<rect x="148.4" y="420" class="st4" width="6.7" height="6.7"/>
+		<rect x="141.7" y="420" class="st13" width="6.7" height="6.7"/>
+		<rect x="135" y="420" class="st15" width="6.7" height="6.7"/>
+		<rect x="128.3" y="420" class="st14" width="6.7" height="6.7"/>
+		<rect x="121.6" y="420" class="st17" width="6.7" height="6.7"/>
+		<text x="124.9" y='436' class="st18 st19 st29">-3</text>
+		<text x='145.6' y='436' class="st18 st19 st29">-2</text>
+		<text x="166.6" y="436" class="st18 st19 st29">-1</text>
+		<text x="182.6" y="436" class="st18 st19 st29">0</text>
+		<text x="196.6" y="436" class="st18 st19 st29">1</text>
+		<text x="214.6" y="436" class="st18 st19 st29">2</text>
 	</g>
 </g>
 <rect x="321.7" y="8" class="st21" width="24.3" height="11.7"/>
