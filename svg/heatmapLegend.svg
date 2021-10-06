@@ -1,9 +1,7 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400.13 202.34">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200.065 45">
   <defs>
     <style>
       .cls-1, .cls-6 {
-        isolation: isolate;
-        font-size: 29.15px;
         fill: #fff;
       }
 
@@ -42,14 +40,14 @@
     </style>
   </defs>
   <g>
-    <text class="cls-1" transform="translate(0 25)">Region</text>
-    <rect class="cls-2" y="35.46" width="41.72" height="41.72"/>
-    <rect class="cls-3" y="77.18" width="41.72" height="41.72"/>
-    <rect class="cls-4" y="118.9" width="41.72" height="41.72"/>
-    <rect class="cls-5" y="160.62" width="41.72" height="41.72"/>
-    <text class="cls-6" transform="translate(50.09 66.73)">Collecting duct</text>
-    <text class="cls-6" transform="translate(50.09 108.49)">Distal convoluted tubule</text>
-    <text class="cls-6" transform="translate(50.09 150.21)">Loop of Henle</text>
-    <text class="cls-6" transform="translate(50.09 191.93)">Proximal<tspan class="cls-7" x="113.37" y="0"> </tspan><tspan x="121.51" y="0">convoluted</tspan><tspan class="cls-8" x="262.48" y="0"> </tspan><tspan x="270.63" y="0">tubule</tspan></text>
+    <text class="cls-1" x='0' y='10' style='font-size: 12px; fill: #FFFFFF; font-family: Arial;' textLength='30px' lengthAdjust='spacingAndGlyphs'>Region</text>
+    <rect class="cls-2" x='0' y="12" width="12" height="12"/>
+    <rect class="cls-3" x='0' y="24" width="12" height="12"/>
+    <rect class="cls-4" x='100' y="12" width="12" height="12"/>
+    <rect class="cls-5" x='100' y="24" width="12" height="12"/>
+    <text class="cls-6" x='16' y='23' style='font-size: 10px; fill: #FFFFFF; font-family: Arial;' textLength='60px' lengthAdjust='spacingAndGlyphs'>Collecting duct</text>
+    <text class="cls-6" x='16' y='35' style='font-size: 10px; fill: #FFFFFF; font-family: Arial;' textLength='80px' lengthAdjust='spacingAndGlyphs'>Distal convoluted tubule</text>
+    <text class="cls-6" x='116' y='23' style='font-size: 10px; fill: #FFFFFF; font-family: Arial;' textLength='60px' lengthAdjust='spacingAndGlyphs'>Loop of Henle</text>
+    <text class="cls-6" x='116' y='35' style='font-size: 10px; fill: #FFFFFF; font-family: Arial;' textLength='80px' lengthAdjust='spacingAndGlyphs'>Proximal convoluted tubule</text>
   </g>
 </svg>
