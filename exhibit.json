@@ -1,8 +1,184 @@
-{"PixelsPerMicron": 2.5063, "Images": [{"Name": "i0", "Description": "", "Path": "images/kidney-210910", "Width": 32768, "Height": 65536, "MaxLevel": 6}], "Header": "", "Rotation": 0, "Layout": {"Grid": [["i0"]]}, "Stories": [{"Name": "", "Description": "", "Waypoints": [{"Name": "Gross Kidney Anatomy", "Description": "The role of the kidney is to filter blood and concentrate waste into urine. Nephrons are the functional unit of the kidney. Within the nephron, blood is filtered in the glomeruli, and waste products are concentrated and transported via the proximal and distal tubules, loops of Henle and collecting ducts. The nephron extends across the two major zones of the kidney: the cortex and the medulla. Glomeruli are located in the cortex and the tubule systems extend from the cortex into the medulla.\n\nThis kidney sample shown to the right represents a 5 µm FFPE tissue section from a 41-year-old man.\nThe sample was visualized with PanCK (epithelial cells), CD10+CD31 (proximal convoluted tubules and endothelial cells), and SYTO 83 (nuclei). In parallel, the sample was molecularly profiled with the [**GeoMx Human Whole Transcriptome Atlas (WTA) assay**](https://www.nanostring.com/products/geomx-digital-spatial-profiler/geomx-rna-assays/geomx-whole-transcriptome-atlas/).\n\nYou can click on the cortex and medulla in the cartoon to see them outlined on the tissue image, and you can toggle the Regions of Interest (ROIs) that were molecularly profiled by clicking All Structures as a data layer.", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["All structures"], "ActiveMasks": ["All structures"], "Zoom": 1, "Pan": [0.10195312499999998, 0.4015625]},
-{"Name": "Detailed Kidney Anatomy", "Description": "With GeoMx DSP, Regions of Interest (ROIs) are selected by the user and then molecularly profiled. These ROIs can be either profiled whole (i.e. geometric profiling) or subdivided based on the visible morphology markers into compartments and profiled separately (i.e. segmented profiling).\n\nIn the cartoon below, the key features of the nephron are highlighted and corresponding ROIs are mapped on the tissue image to the right.\n1. Cortical Glomerulus: Geometric \n2. Cortical Filtration Membrane: CD10/CD31+ Segmented\n3. Juxtamedullary Glomerulus: Geometric \n4. Juxtamedullary Filtration Membrane: CD10/CD31+ Segmented\n5. Proximal Convoluted Tubule: Geometric \n6. Distal Convoluted Tubule: PanCK+ Segmented\n7. Loop of Henle: PanCK+ Segmented\n8. Collecting Duct: PanCK+ Segmented", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"], "ActiveMasks": [], "Zoom": 1, "Pan": [0.10195312499999998, 0.4015625]}, 
-{"Name": "Linking Molecular and Imaging Data", "Description": "One of the key aspects of spatial biology is the ability to link molecular and spatial (image) data. In this figure, the average number of genes detected per ROI by structure is shown. Select a data point within the box plot to see its corresponding ROI.", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"], "ActiveMasks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"], "Zoom": 1, "Pan": [0.10195312499999998, 0.4015625]}, 
-{"Name": "Distribution of Cells", "Description": "Here, we are measuring the relative abundance of different cell types within each ROI using a **[cell deconvolution algorithm](https://doi.org/10.1101/2020.08.04.235168)**.\nIn this graph, each row is a single ROI, and each structure has a unique composition of cell types. For example, proximal convoluted tubules are enriched for epithelial cells of the proximal tubule, whereas distal convoluted tubules are enriched for intercalated cell (Type A). The cell deconvolution matrix comes from the [**Human Cell Atlas**](https://data.humancellatlas.org/explore/projects/abe1a013-af7a-45ed-8c26-f3793c24a1f4).", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"], "ActiveMasks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"], "Zoom": 1, "Pan": [0.10195312499999998, 0.4015625]}, 
-{"Name": "Spatial Mapping of Gene Pathways", "Description": "Whole transcriptome profiling allows us to spatially map functional gene pathways and gene sets, as well as individual genes. This heatmap of single sample gene set enrichment analysis (ssGSEA) scores shows relative expression of transporter gene sets in different ROIs. For clarity, only a few structure types are shown. For example, ABC transporters (top row) are enriched in proximal convoluted tubules, whereas SLC39 metal ion transporters (bottom row) are enriched in collecting ducts." , "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Collecting duct", "Distal convoluted tubule", "Loop of Henle", "Proximal convoluted tubule"], "ActiveMasks": ["Collecting duct", "Distal convoluted tubule", "Loop of Henle", "Proximal convoluted tubule"], "Zoom": 1, "Pan": [0.10195312499999998, 0.4015625]}, 
-{"Name": "Differential Gene Expression", "Description": "Spatially resolving whole transcriptome data allows us to generate new hypotheses about the tissue biology. Based on biochemical profiling, we know that cortical nephrons have primarily excretory and regulatory functions, while juxtamedullary nephrons concentrate and dilute urine. This volcano plot of the differential gene expression between cortical and juxtamedullary glomeruli allows us to see the different genes expressed in the two ROI types that underlie their different functional roles. ", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Cortical glomerulus", "Juxtamedullary glomerulus"], "ActiveMasks": ["Cortical glomerulus", "Juxtamedullary glomerulus"], "Zoom": 1, "Pan": [0.10195312499999998, 0.4015625]}, 
-{"Name": "Validating Gene Expression with Protein Expression", "Description": "We explored the relationship between our data and the [**Human Protein Atlas**](https://www.proteinatlas.org) to see if the gene expression patterns we observed would also be detected at the protein level. As seen in the immunohistochemistry image below, NPHS2 is a protein marker for glomeruli. \n\n![image](img/NPHS2_IHC.jpg)\n\n[*Image credit: Human Protein Atlas.*](https://images.proteinatlas.org/49486/126050_A_7_5.jpg)\n\nNPHS2 transcript was only observed in the glomerulus and filtration membrane ROIs, demonstrating that the gene expression levels concur with the protein distributions. This is independent and orthogonal validation of the expression patterns for these targets.", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"], "ActiveMasks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"], "Zoom": 0.5989309615852827, "Pan": [0.2500000000000005, 0.5556576200619675], "VisScatterplot": {"data": "data\\NPHS2_data_210924.csv", "axes": {"x": "Structure", "y": "NPHS2 expression"}, "clusters": {"labels": "1,2,3,4,5,6,7,8", "reorder": "1,2,3,4,5,6,7,8", "colors": "f0e442,009e73,0072b2,d55e00,cc79a7,56b4e9,e69f00,484e4e"}}}, 
-    {"Name": "Segregation by Histological Substructure", "Description": "Dimensionality reduction enables a high-level exploration of the similarities and differences between ROIs. For example, collecting duct and loop of Henle ROIs cluster tightly, while proximal and distal convoluted tubule clusters are very dispersed. Glomeruli and filtration membranes are tightly clustered, with modest separation between cortical and juxtamedullary ROIs.", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"], "ActiveMasks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"], "Zoom": 0.6944444444444445, "Pan": [0.24999999999999994, 0.47216592562037635], "VisScatterplot": {"data": "data\\tSNE_data_210910.csv", "axes": {"x": "tSNE1", "y": "tSNE2"}, "clusters": {"labels": "1,2,3,4,5,6,7,8", "reorder": "1,2,3,4,5,6,7,8", "colors": "f0e442,009e73,0072b2,d55e00,cc79a7,56b4e9,e69f00,484e4e"}}}]}], "Masks": [{"Path": "All-structures", "Name": "All structures", "Colors": ["ffffff"], "Channels": ["All structures"]}, {"Path": "Collecting-duct", "Name": "Collecting duct", "Colors": ["f0e442"], "Channels": ["Collecting duct"]}, {"Path": "Cortical-filtration-membrane", "Name": "Cortical filtration membrane", "Colors": ["009e73"], "Channels": ["Cortical filtration membrane"]}, {"Path": "Cortical-glomerulus", "Name": "Cortical glomerulus", "Colors": ["0072b2"], "Channels": ["Cortical glomerulus"]}, {"Path": "Distal-convoluted-tubule", "Name": "Distal convoluted tubule", "Colors": ["d55e00"], "Channels": ["Distal convoluted tubule"]}, {"Path": "Juxtamedullary-filtration-membrane", "Name": "Juxtamedullary filtration membrane", "Colors": ["cc79a7"], "Channels": ["Juxtamedullary filtration membrane"]}, {"Path": "Juxtamedullary-glomerulus", "Name": "Juxtamedullary glomerulus", "Colors": ["56b4e9"], "Channels": ["Juxtamedullary glomerulus"]}, {"Path": "Loop-of-Henle", "Name": "Loop of Henle", "Colors": ["e69f00"], "Channels": ["Loop of Henle"]}, {"Path": "Proximal-convoluted-tubule", "Name": "Proximal convoluted tubule", "Colors": ["484e4e"], "Channels": ["Proximal convoluted tubule"]}], "Groups": [{"Name": "All markers", "Path": "All-markers_0__Nuclei--1__PanCK--2__CD10CD31", "Colors": ["0000ff", "00ff00", "ff0054"], "Channels": ["Nuclei", "PanCK", "CD10/CD31"]}, {"Name": "Nuclei", "Path": "Nuclei_0__Nuclei", "Colors": ["0000ff"], "Channels": ["Nuclei"]}, {"Name": "PanCK", "Path": "PanCK_1__PanCK", "Colors": ["00ff00"], "Channels": ["PanCK"]}, {"Name": "CD10/CD31", "Path": "CD10_2__CD10CD31", "Colors": ["ff0054"], "Channels": ["CD10/CD31"]}]}
+{"PixelsPerMicron": 2.5063, 
+"Images": [
+    {"Name": "i0", "Description": "", "Path": "images/kidney-210910", "Width": 32768, "Height": 65536, "MaxLevel": 6}], 
+    "Header": "![image](img/SOA_logo.png)", 
+    "Rotation": 0, 
+    "Layout": {"Grid": [["i0"]]}, 
+    "Appendix": "For more information on NanoString GeoMx technology visit [**our website**](https://www.nanostring.com/products/geomx-digital-spatial-profiler/geomx-dsp-overview/).\n\nDetails of the performance of WTA have been [**published**](https://doi.org/10.1101/2021.09.29.462442). Minerva is an open source software package that was developed by Laboratory of Systems Pharmacology at Harvard University and is available [**here**](https://github.com/labsyspharm/minerva-story/wiki).\nWe would like to thank Jeremy Muhlich and John Thomas Hoffer for assistance in enabling Minerva features to support the Spatial Organ Atlas.\n\nSources:\n\nRashid R, Chen, YA, Hoffer J, Muhlich JL, Lin JR, Krueger R, Pfister H, Mitchell R, Santagata S, Sorger PK. (2021) Narrative online guides for the interpretation of digital-pathology images and tissue-atlas data. *Nature Biomedical Engineering*, p1-12 [https://doi.org/10.1038/s41551-021-00789-8](https://doi.org/10.1038/s41551-021-00789-8)\n\nHoffer J, Rashid R, Muhlich JL, Chen, YA, Russell D, Ruokonen J, Krueger R, Pfister H, Santagata S, Sorger PK. (2020). Minerva: a light-weight, narrative image browser for multiplexed tissue images. Journal of Open Source Software, 5(54), 2579, [https://doi.org/10.21105/joss.02579](https://doi.org/10.21105/joss.02579)\n\nKidney Illustrations: ©Dave Carlson/ [CarlsonStockArt.com](https://www.carlsonstockart.com/)\n\nFOR RESEARCH USE ONLY. Not for use in diagnostic procedures.",
+"Stories": [{"Name": "", "Description": "Welcome to the [**Spatial Organ Atlas (SOA)**](https://www.nanostring.com/spatial-organ-atlas) Kidney Demonstration.\n\nThe SOA is a database for whole transcriptome spatial profiles of functional components of tissues from human and mouse generated with the GeoMx® Digital Spatial Profiler.\nAll the data in the SOA is downloadable, including [**this kidney sample (#001)**](https://www.nanostring.com/products/geomx-digital-spatial-profiler/spatial-organ-atlas/human-kidney/).\n\nUsing [**Minerva**](https://github.com/labsyspharm/minerva-story/wiki), we will show you how the imaging and molecular data combine to give you a comprehensive profile of the tissue architecture and biology.\n\nClick around to explore on your own.\n\nHints:\n* Zoom and pan the image via the mouse/trackpad.\n* Open and close the left- and right-hand menus by clicking on < or >.\n* See results in the left-hand menu and click on the selectable regions to zoom to the featured area of the tissue.\n* Turn channels on and off with the right-hand menu.", 
+"Waypoints": [{
+    "Name": "Gross Kidney Anatomy", 
+    "Description": "The role of the kidney is to filter blood and concentrate waste into urine. Nephrons are the functional unit of the kidney. Within the nephron, blood is filtered in the glomeruli, and waste products are concentrated and transported via the proximal and distal tubules, loops of Henle and collecting ducts. The nephron extends across the two major zones of the kidney: the cortex and the medulla. Glomeruli are located in the cortex and the tubule systems extend from the cortex into the medulla.\n\nThis kidney sample shown to the right represents a 5 µm FFPE tissue section from a 41-year-old man.\nThe sample was visualized with PanCK (epithelial cells), CD10+CD31 (proximal convoluted tubules and endothelial cells), and SYTO 83 (nuclei). In parallel, the sample was molecularly profiled with the [**GeoMx Human Whole Transcriptome Atlas (WTA) assay**](https://www.nanostring.com/products/geomx-digital-spatial-profiler/geomx-rna-assays/geomx-whole-transcriptome-atlas/).\n\nYou can click on the cortex and medulla in the cartoon to see them outlined on the tissue image, and you can toggle the Regions of Interest (ROIs) by selecting from the data layers below.", 
+    "Footer": "Hints:\n* Select the nuclei layer to easily see all ROIs.\n* The “All data layers” category allows you to toggle between selecting all data layers and selecting no data layers. A single click can unselect all data layers, allowing easy selection of a single data layer (If any layers are unselected, the first click will select all layers, the second click will unselect all).",
+    "Arrows": [], 
+    "Overlays": [], 
+    "Group": "All markers", 
+    "Masks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"],
+     "ActiveMasks": [], 
+     "Zoom": 1, 
+     "Pan": [0.10195312499999998, 0.4015625]
+    },
+{
+    "Name": "Detailed Kidney Anatomy", 
+    "Description": "With GeoMx DSP, Regions of Interest (ROIs) are selected by the user and then molecularly profiled. These ROIs can be either profiled whole (i.e. geometric profiling) or subdivided based on the visible morphology markers into compartments and profiled separately (i.e. segmented profiling).\n\nIn the cartoon below, the key features of the nephron are highlighted and corresponding ROIs are mapped on the tissue image to the right.\n1. Cortical Glomerulus: Geometric \n2. Cortical Filtration Membrane: CD10/CD31+ Segmented\n3. Juxtamedullary Glomerulus: Geometric \n4. Juxtamedullary Filtration Membrane: CD10/CD31+ Segmented\n5. Proximal Convoluted Tubule: Geometric \n6. Distal Convoluted Tubule: PanCK+ Segmented\n7. Loop of Henle: PanCK+ Segmented\n8. Collecting Duct: PanCK+ Segmented", 
+    "Arrows": [], 
+    "Overlays": [], 
+    "Group": "All markers", 
+    "Masks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"], 
+    "ActiveMasks": [], 
+    "Zoom": 1, 
+    "Pan": [0.10195312499999998, 0.4015625],
+    "Footer": "Hints:\n* Click a structure in the cartoon to see a representative ROI on the image.\n* Add a data layer to see all the corresponding ROIs on the image.\n* Toggle data layers and channels to see how compartments were selected."
+}, 
+{ 
+    "Name": "Linking Molecular and Imaging Data", 
+    "Description": "One of the key aspects of spatial biology is the ability to link molecular and spatial (image) data. In this figure, the average number of genes detected per ROI by structure is shown. Select a data point within the box plot to see its corresponding ROI.", 
+    "Arrows": [], 
+    "Overlays": [], 
+    "Group": "All markers", 
+    "Masks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"], 
+    "ActiveMasks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"], 
+    "Zoom": 1, 
+    "Pan": [0.10195312499999998, 0.4015625],
+    "Footer": "Hint:\n* Select a data point to see the corresponding ROI."
+}, 
+{
+    "Name": "Cell Type Deconvolution", 
+    "Description": "Here, we are measuring the relative abundance of different cell types within each ROI using a **[cell deconvolution algorithm](https://www.nature.com/articles/s41467-022-28020-5)**.\nIn this graph, each row is a single ROI, and each structure has a unique composition of cell types. For example, proximal convoluted tubules are enriched for epithelial cells of the proximal tubule, whereas distal convoluted tubules are enriched for intercalated cell (Type A). The cell deconvolution matrix comes from the [**Human Cell Atlas**](https://data.humancellatlas.org/explore/projects/abe1a013-af7a-45ed-8c26-f3793c24a1f4).", 
+    "Arrows": [], 
+    "Overlays": [], 
+    "Group": "All markers", 
+    "Masks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"], 
+    "ActiveMasks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"], 
+    "Zoom": 1, 
+    "Pan": [0.10195312499999998, 0.4015625],
+    "Footer": "Hint:\n* Select a single row of the figure to be taken to that ROI in the image."
+}, 
+{
+    "Name": "Spatial Mapping of Gene Pathways", 
+    "Description": "Whole transcriptome profiling allows us to spatially map functional gene pathways and gene sets, as well as individual genes. This heatmap of single sample gene set enrichment analysis (ssGSEA) scores shows relative expression of transporter gene sets in different ROIs. For clarity, only a few structure types are shown. For example, ABC transporters (top row) are enriched in proximal convoluted tubules, whereas SLC39 metal ion transporters (bottom row) are enriched in collecting ducts." , 
+    "Arrows": [], 
+    "Overlays": [], 
+    "Group": "All markers", 
+    "Masks": ["Collecting duct", "Distal convoluted tubule", "Loop of Henle", "Proximal convoluted tubule"], "ActiveMasks": ["Collecting duct", "Distal convoluted tubule", "Loop of Henle", "Proximal convoluted tubule"], 
+    "Zoom": 1, 
+    "Pan": [0.10195312499999998, 0.4015625],
+    "Footer": "Hint:\n* Select a single column of the figure to be taken to that ROI in the image."
+}, 
+{
+    "Name": "Differential Gene Expression", 
+    "Description": "Spatially resolving whole transcriptome data allows us to generate new hypotheses about the tissue biology. Based on biochemical profiling, we know that cortical nephrons have primarily excretory and regulatory functions, while juxtamedullary nephrons concentrate and dilute urine. This volcano plot of the differential gene expression between cortical and juxtamedullary glomeruli allows us to see the different genes expressed in the two ROI types that underlie their different functional roles. ", 
+    "Arrows": [], 
+    "Overlays": [], 
+    "Group": "All markers", 
+    "Masks": ["Cortical glomerulus", "Juxtamedullary glomerulus"], 
+    "ActiveMasks": ["Cortical glomerulus", "Juxtamedullary glomerulus"], 
+    "Zoom": 1, 
+    "Pan": [0.10195312499999998, 0.4015625],
+    "Footer": "Hint:\n* Select the regions on the graph with the genes that are differentially expressed (in blue) to see all the ROIs where they are more highly expressed. Turning on only the nuclei channel may help you see smaller ROIs."
+}, 
+{
+    "Name": "Validating Gene Expression with Protein Expression", 
+    "Description": "We explored the relationship between our data and the [**Human Protein Atlas**](https://www.proteinatlas.org) to see if the gene expression patterns we observed would also be detected at the protein level. As seen in the immunohistochemistry image below, NPHS2 is a protein marker for glomeruli. \n\n![image](img/NPHS2_IHC.jpg)\n\n[*Image credit: Human Protein Atlas.*](https://images.proteinatlas.org/49486/126050_A_7_5.jpg)\n\nNPHS2 transcript was only observed in the glomerulus and filtration membrane ROIs, demonstrating that the gene expression levels concur with the protein distributions. This is independent and orthogonal validation of the expression patterns for these targets.", 
+    "Arrows": [], 
+    "Overlays": [], 
+    "Group": "All markers", 
+    "Masks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"], 
+    "ActiveMasks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"], 
+    "Zoom": 0.5989309615852827, 
+    "Pan": [0.2500000000000005, 0.5556576200619675], 
+    "Footer": "Hint:\n* Select an individual point on the graph to be taken to that ROI in the image.",
+    "MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 250}, "background": null, "numberFormat": ".0f"}, "width": "container",  "$schema": "https://vega.github.io/schema/vega-lite/v5.json", 
+    "data": {"url": "data/NPHS2_data_210924.csv"},
+        "mark": {"type": "point", "filled": true, "size": 60},
+        "encoding": {
+            "x": {
+                "field": "Structure",
+                "type": "quantitative",
+                "axis": {
+                    "labelExpr": "datum.label == 1 ? 'Collecting duct' : datum.label == 2 ? 'Cortical filtration membrane' : datum.label == 3 ? 'Cortical glomerulus' : datum.label == 4 ? 'Distal convoluted tubule' : datum.label == 5 ? 'Juxtamedullary filtration membrane' : datum.label == 6 ? 'Juxtamedullary glomerulus' : datum.label == 7 ? 'Loop of Henle' : datum.label == 8 ? 'Proximal convoluted tubule' : null",
+                    "labelAngle": -90,
+                    "tickCount": 9,
+                    "grid": false
+                },
+                "scale": {"domain": [0, 9]},
+                "title": null
+            },
+            "y": {
+                "field": "NPHS2 Normalized Expression",
+                "type": "quantitative"
+            },
+            "color": {
+                "field": "type",
+                "type": "nominal",
+                "legend": {
+                    "orient": "bottom",
+                    "direction": "vertical",
+                    "title": "Histological structure"
+                },
+                "scale": {
+                    "domain": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"],
+                    "range": ["#f0e442", "#009e73", "#0072b2", "#d55e00", "#cc79a7", "#56b4e9", "#e69f00", "#484e4e"]
+                }
+            },
+            "tooltip": [
+                {"field": "NPHS2 Normalized Expression", "type": "quantitative", "format": ".0f"},
+                {"field": "type", "type": "nominal", "title": "ROI cateogry"}
+            ]
+        }
+    }
+}, 
+{
+    "Name": "Segregation by Histological Substructure", 
+    "Description": "Dimensionality reduction enables a high-level exploration of the similarities and differences between ROIs. For example, collecting duct and Loop of Henle ROIs cluster tightly, while proximal and distal convoluted tubule clusters are very dispersed. Glomeruli and filtration membranes are tightly clustered, with modest separation between cortical and juxtamedullary ROIs.", 
+    "Arrows": [], 
+    "Overlays": [], 
+    "Group": "All markers", 
+    "Masks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"], 
+    "ActiveMasks": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"], 
+    "Zoom": 0.6944444444444445, 
+    "Pan": [0.24999999999999994, 0.47216592562037635], 
+    "Footer": "Hint:\n* Select an individual point on the graph to be taken to that ROI in the image.",
+    "MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 250}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json", 
+    "data": {"url": "data/tSNE_data_210910.csv"},
+            "mark": {"type": "point", "filled": true, "size": 60, "stroke": "white", "strokeWidth": 0.5},
+            "encoding": {
+                "x": {
+                    "field": "tSNE1",
+                    "type": "quantitative"
+                },
+                "y": {
+                    "field": "tSNE2",
+                    "type": "quantitative"
+                },
+                "color": {
+                    "field": "type",
+                    "type": "nominal",
+                    "legend": {
+                        "orient": "bottom",
+                        "direction": "vertical",
+                        "title": "Histological structure"
+                    },
+                    "scale": {
+                        "domain": ["Collecting duct", "Cortical filtration membrane", "Cortical glomerulus", "Distal convoluted tubule", "Juxtamedullary filtration membrane", "Juxtamedullary glomerulus", "Loop of Henle", "Proximal convoluted tubule"],
+                        "range": ["#f0e442", "#009e73", "#0072b2", "#d55e00", "#cc79a7", "#56b4e9", "#e69f00", "#484e4e"]
+                    }
+                }
+            }
+        }}]}], 
+"Masks": [
+    {"Path": "Collecting-duct", "Name": "Collecting duct", "Colors": ["f0e442"], "Channels": ["Collecting duct"]}, 
+    {"Path": "Cortical-filtration-membrane", "Name": "Cortical filtration membrane", "Colors": ["009e73"], "Channels": ["Cortical filtration membrane"]}, 
+    {"Path": "Cortical-glomerulus", "Name": "Cortical glomerulus", "Colors": ["0072b2"], "Channels": ["Cortical glomerulus"]}, 
+    {"Path": "Distal-convoluted-tubule", "Name": "Distal convoluted tubule", "Colors": ["d55e00"], "Channels": ["Distal convoluted tubule"]}, 
+    {"Path": "Juxtamedullary-filtration-membrane", "Name": "Juxtamedullary filtration membrane", "Colors": ["cc79a7"], "Channels": ["Juxtamedullary filtration membrane"]}, 
+    {"Path": "Juxtamedullary-glomerulus", "Name": "Juxtamedullary glomerulus", "Colors": ["56b4e9"], "Channels": ["Juxtamedullary glomerulus"]}, 
+    {"Path": "Loop-of-Henle", "Name": "Loop of Henle", "Colors": ["e69f00"], "Channels": ["Loop of Henle"]}, 
+    {"Path": "Proximal-convoluted-tubule", "Name": "Proximal convoluted tubule", "Colors": ["484e4e"], "Channels": ["Proximal convoluted tubule"]}
+], 
+"Groups": [
+    {"Name": "All markers", "Path": "All-markers_0__Nuclei--1__PanCK--2__CD10CD31", "Colors": ["0000ff", "00ff00", "ff0054"], "Channels": ["Nuclei", "PanCK", "CD10/CD31"]}, 
+    {"Name": "Nuclei", "Path": "Nuclei_0__Nuclei", "Colors": ["0000ff"], "Channels": ["Nuclei"]}, 
+    {"Name": "PanCK", "Path": "PanCK_1__PanCK", "Colors": ["00ff00"], "Channels": ["PanCK"]}, 
+    {"Name": "CD10/CD31", "Path": "CD10_2__CD10CD31", "Colors": ["ff0054"], "Channels": ["CD10/CD31"]}
+]}
